@@ -70,10 +70,3 @@ Herramientas
 🗄 Bases de Datos
 ⚙ Automatización de procesos
 📱 Desarrollo de aplicaciones
-
----
-
-📬 Contacto
-
-📧 Email: edwinalex24082003@gmail.com
-📱 Teléfono:3132903811
