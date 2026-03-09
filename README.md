@@ -8,7 +8,7 @@ Interesado en <b>Desarrollo Web</b>, <b>Bases de Datos</b> y <b>Sistemas Empresa
 
 <hr>
 
-<h2>👋 Sobre mí</h2>
+<h2><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Sobre mí</h2>
 
 <p>
 Soy tecnólogo en <b>Análisis y Desarrollo de Software</b> con interés en desarrollar
