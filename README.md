@@ -40,7 +40,7 @@ y visualización de información básica de cada artículo.
 </p>
 
 <p>
-<a href="https://github.com/lexmurillo/tienda-ropa">Ver repositorio</a>
+<a href="https://github.com/lexmurillo/tienda-ropa-web">Ver repositorio</a>
 </p>
 
 <br>
