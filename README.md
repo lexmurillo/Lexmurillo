@@ -1,72 +1,65 @@
-👨‍💻 Edvin Alexander Murillo Morales
 
-🖥 Tecnólogo en Análisis y Desarrollo de Software
-🌎 Interesado en Desarrollo Web y Bases de Datos
-📍 Colombia
+<h1 align="center">👨‍💻 Edwin Alexander Murillo Morales</h1>
 
----
+<p align="center">
+<b>Tecnólogo en Análisis y Desarrollo de Software</b><br>
+Interesado en <b>Desarrollo Web</b>, <b>Bases de Datos</b> y <b>Sistemas Empresariales</b>
+</p>
 
-🧑‍💻 Sobre mí
+<hr>
 
-Soy tecnólogo en Análisis y Desarrollo de Software con interés en el desarrollo web, bases de datos y soluciones tecnológicas para negocios.
+<h2>👋 Sobre mí</h2>
 
-Me gusta aprender nuevas tecnologías y desarrollar herramientas que ayuden a resolver problemas reales mediante software.
+<p>
+Soy tecnólogo en <b>Análisis y Desarrollo de Software</b> con interés en desarrollar
+<b>aplicaciones web y soluciones tecnológicas</b> que ayuden a resolver problemas reales.
+</p>
 
-Actualmente estoy fortaleciendo mis conocimientos en JavaScript, bases de datos y desarrollo de aplicaciones web.
+<p>
+Actualmente estoy fortaleciendo mis habilidades en 
+<b>JavaScript, desarrollo web y bases de datos</b>.
+</p>
 
----
+<hr>
 
-⚙️ Tecnologías y herramientas
+<h2>🚀 Proyectos</h2>
 
-Lenguajes
+<h3>🛍️ Tienda de Ropa</h3>
 
-## ⚙️ Tecnologías
+<p>
+Aplicación web que muestra una <b>tienda de ropa online</b> con productos organizados
+y visualización de información básica de cada artículo.
+</p>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<h4>Tecnologías</h4>
 
-Bases de datos
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
 
+<p>
+<a href="https://github.com/lexmurillo/tienda-ropa">Ver repositorio</a>
+</p>
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<br>
 
-Herramientas
+<h3>📦 Sistema de Logística</h3>
 
+<p>
+Aplicación web orientada a la gestión de procesos logísticos como
+<b>registro de pedidos, seguimiento de entregas y control de estado de envíos</b>.
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Bubble](https://img.shields.io/badge/Bubble-2C4BFF?style=for-the-badge&logo=bubble&logoColor=white)
+<h4>Tecnologías</h4>
 
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
 
----
-
-📖 Actualmente aprendiendo
-
-📡 Integración de bases de datos en aplicaciones web
-🧱 Desarrollo de sistemas CRUD
-⚡ Automatización de procesos con JavaScript
-📂 Buenas prácticas con Git y control de versiones
-
----
-
-🚧 Proyectos que planeo desarrollar
-
-📦 Sistema CRUD para gestión de productos
-
-🌐 Catálogo web conectado a base de datos
-
-🔐 Sistema de autenticación para aplicaciones web
-
----
-
-🧭 Intereses tecnológicos
-
-🌍 Desarrollo Web
-🗄 Bases de Datos
-⚙ Automatización de procesos
-📱 Desarrollo de aplicaciones
+<p>
+<a href="https://github.com/lexmurillo/sistema-logistica">Ver repositorio</a>
+</p>
