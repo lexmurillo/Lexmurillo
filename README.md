@@ -40,7 +40,9 @@ y visualización de información básica de cada artículo.
 </p>
 
 <p>
-<a href="https://github.com/lexmurillo/tienda-ropa-web">Ver repositorio</a>
+<a href="https://github.com/lexmurillo/tienda-ropa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lexmurillo&repo=tienda-ropa-web&theme=onedark" />
+</a>
 </p>
 
 <br>
