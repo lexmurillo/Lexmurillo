@@ -44,18 +44,32 @@ Participé en la gestión de usuarios mediante Directorio Activo, soporte remoto
 Esta experiencia fortaleció mis capacidades de análisis, atención al usuario y resolución de problemas en entornos corporativos.
 </p>
 
-## 🛠️ Metricas
+## 📊 Estadísticas de GitHub
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=Lexmurillo&show_icons=true" /> </p>
+<div align="center">
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Lexmurillo&theme=dark&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lexmurillo&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" height="180"/>
+<div align="center">
 
 
-## 🛠️ Metricas
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lexmurillo&repo=tienda-ropa-web" />
-</p>
+<table>
+<tr>
+
+<td width="50%">
+  <a href="https://leetcode.com/Lexmurillo/">
+    <img src="https://leetcard.jacoblin.cool/Lexmurillo?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="800"/>
+
+</div>
 
 ## Skills
 <div align="left">
