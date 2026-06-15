@@ -44,28 +44,40 @@ Participé en la gestión de usuarios mediante Directorio Activo, soporte remoto
 Esta experiencia fortaleció mis capacidades de análisis, atención al usuario y resolución de problemas en entornos corporativos.
 </p>
 
-## 🛠️ Tecnologías
+## 🛠️ Metricas
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=Lexmurillo&show_icons=true" /> </p>
 
 </p>
 
-## 🛠️ Tecnologías
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,java,html,css,git,github,mysql" />
-</p>
-
-## 🛠️ Tecnologías
+## 🛠️ Metricas
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lexmurillo&repo=tienda-ropa-web" />
 </p>
-## 📈 Objetivos
 
-- Convertirme en Software Developer
-- Participar en proyectos Open Source
-- Dominar Backend y Bases de Datos
-- Construir productos reales
-
----
+## Skills
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
