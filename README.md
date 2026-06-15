@@ -59,7 +59,7 @@ Esta experiencia fortaleció mis capacidades de análisis, atención al usuario 
 ## 🛠️ Tecnologías
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lexmurillo&show_icons=true"" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lexmurillo&repo=tienda-ropa-web" />
 </p>
 ## 📈 Objetivos
 
