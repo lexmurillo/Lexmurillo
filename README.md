@@ -2,9 +2,8 @@
 <tr>
 <td width="60%">
 
-<h1>👋 Bienvenid@s Devs</h1>
+<h1> Bienvenid@s Devs</h1>
 
-<h3>Soy Alexander Murillo</h3>
 
 <p>
 Mi interés por este mundo comenzó hace muchos años gracias a los videojuegos. Mientras otras personas se enfocaban únicamente en jugarlos, yo me preguntaba qué ocurría detrás de cada pantalla: cómo funcionaban, cómo estaban construidos y qué hacía posible que cada elemento cobrara vida. Esa curiosidad se convirtió con el tiempo en una pasión por comprender la tecnología desde sus fundamentos.
@@ -15,7 +14,7 @@ Creo firmemente que la tecnología no solo debe resolver problemas, sino tambié
 
 </td>
 
-<td width="100%" align="center">
+<td width="50%" align="center">
 
 <img src="https://github.com/user-attachments/assets/345b47f7-f0e6-4412-97a6-b452d3f7ac46" width="360"/>
 
@@ -24,8 +23,11 @@ Creo firmemente que la tecnología no solo debe resolver problemas, sino tambié
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="60%">
 
-## 🚀 Experiencia
+ ##  Experiencia
 <p>
  <h3> Analista de TI | 2025</h3>
 
@@ -34,6 +36,14 @@ Participé en la administración y soporte de plataformas corporativas, gestión
 Brindé atención a incidencias de segundo nivel sobre aplicaciones empresariales y plataformas ERP, participando en la configuración de accesos, validación funcional de módulos y diagnóstico de fallas en aplicaciones web corporativas. Asimismo, colaboré en el monitoreo de servicios, revisión de integraciones y análisis de incidencias relacionadas con datos, configuraciones y consumo de APIs internas.
 
 Mi enfoque estuvo orientado al análisis de problemas, mejora de la confiabilidad operativa y optimización de la experiencia de los usuarios dentro del ecosistema tecnológico de la organización.
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="60%">
 
 <h3> Soporte Técnico en Prácticas | 2024 </h3>
 
@@ -44,8 +54,15 @@ Participé en la gestión de usuarios mediante Directorio Activo, soporte remoto
 Esta experiencia fortaleció mis capacidades de análisis, atención al usuario y resolución de problemas en entornos corporativos.
 </p>
 
-## 📊 Estadísticas de GitHub
+</td>
+</tr>
+</table>
 
+##  Estadísticas de GitHub
+
+<table>
+<tr>
+<td width="100%">
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Lexmurillo&theme=dark&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="180"/>
@@ -54,32 +71,28 @@ Esta experiencia fortaleció mis capacidades de análisis, atención al usuario 
 
 
 
-<table>
-<tr>
 
-<td width="50%">
+
+
   <a href="https://leetcode.com/Lexmurillo/">
-    <img src="https://leetcard.jacoblin.cool/Lexmurillo?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Lexmurillo?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"  width="495" />
   </a>
-</td>
-</tr>
-</table>
+
 
 </div>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="800"/>
-
 </div>
+</td>
+</tr>
+</table>
+
 
 ## Skills
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -89,9 +102,8 @@ Esta experiencia fortaleció mis capacidades de análisis, atención al usuario 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
+</div>
+
+
