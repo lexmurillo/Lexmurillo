@@ -41,7 +41,6 @@ Mi enfoque estuvo orientado al análisis de problemas, mejora de la confiabilida
 </tr>
 </table>
 
-<table>
 <tr>
 <td width="60%">
 
@@ -54,39 +53,29 @@ Participé en la gestión de usuarios mediante Directorio Activo, soporte remoto
 Esta experiencia fortaleció mis capacidades de análisis, atención al usuario y resolución de problemas en entornos corporativos.
 </p>
 
-</td>
-</tr>
-</table>
+## Estadísticas de GitHub
 
-##  Estadísticas de GitHub
-
-<table>
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td width="60%">
-<div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lexmurillo&theme=dark&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lexmurillo&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" height="180"/>
-<div align="center">
+<td width="40%" valign="top">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Lexmurillo&theme=dark&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="100%"/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lexmurillo&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" width="100%"/>
 
-
-
-
-  <a href="https://leetcode.com/Lexmurillo/">
-    <img src="https://leetcard.jacoblin.cool/Lexmurillo?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"  width="495" />
-  </a>
-
-
-</div>
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="800"/>
-</div>
 </td>
+
+<td width="60%" valign="top">
+
+<a href="https://leetcode.com/Lexmurillo/">
+<img src="https://leetcard.jacoblin.cool/Lexmurillo?theme=dark&font=Nunito" width="100%"/>
+</a>
+
+</td>
+
 </tr>
 </table>
-
 
 ## Skills
 <div align="center">
