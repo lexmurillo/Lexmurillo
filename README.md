@@ -66,11 +66,13 @@ Participación colaborativa: trabajo conjunto con el equipo de desarrollo bajo e
 <p>
  <h3> Analista de TI | 2025</h3>
 
-Participé en la administración y soporte de plataformas corporativas, gestión de usuarios y control de accesos mediante Directorio Activo, contribuyendo a la estabilidad y seguridad del entorno tecnológico.
-
-Brindé atención a incidencias de segundo nivel sobre aplicaciones empresariales y plataformas ERP, participando en la configuración de accesos, validación funcional de módulos y diagnóstico de fallas en aplicaciones web corporativas. Asimismo, colaboré en el monitoreo de servicios, revisión de integraciones y análisis de incidencias relacionadas con datos, configuraciones y consumo de APIs internas.
-
-Mi enfoque estuvo orientado al análisis de problemas, mejora de la confiabilidad operativa y optimización de la experiencia de los usuarios dentro del ecosistema tecnológico de la organización.
+Durante mi etapa como Analista IT, participé en el análisis, diagnóstico y resolución de incidencias tecnológicas, así como en la automatización y optimización de procesos internos, gestión de bases de datos y soporte a aplicativos corporativos, trabajando de manera transversal con las áreas de infraestructura, datos y desarrollo.
+Análisis y resolución de incidencias: diagnóstico de errores en sistemas, servidores de bases de datos, aplicativos web y móviles, identificando causas y aplicando soluciones orientadas a la continuidad y mejora de los servicios tecnológicos.
+Automatización y optimización de procesos: desarrollo, mantenimiento y optimización de scripts mediante Python y PowerShell, orientados a reducir tareas manuales y mejorar procesos operativos. Se destacó la optimización de scripts utilizados para automatizar la gestión de equipos, aplicación de configuraciones y políticas, y procesos relacionados con Active Directory.
+Gestión de bases de datos: ejecución de consultas, análisis de información, diagnóstico de errores y administración de permisos asociados a usuarios y aplicativos directamente sobre bases de datos.
+Gestión de accesos y permisos: administración, asignación y revocación de permisos para aplicativos mediante FDIN y mecanismos de gestión sobre bases de datos, de acuerdo con los requerimientos de operación y seguridad.
+Soporte y mantenimiento de aplicativos: análisis y solución de incidencias en plataformas corporativas como Novasoft, FDIM, Fmit y soti MobiControl, incluyendo aplicativos internos y soluciones móviles.
+UI/UX y mejora de interfaces: participación en la optimización del módulo de inicio de sesión de Fmit, aplicando principios de UI/UX, usabilidad y diseño responsive, con el objetivo de mejorar la experiencia de 
 
 </td>
 </tr>
@@ -81,11 +83,17 @@ Mi enfoque estuvo orientado al análisis de problemas, mejora de la confiabilida
 
 <h3> Soporte Técnico en Prácticas | 2024 </h3>
 
-Brindé soporte técnico a usuarios y equipos de cómputo, realizando mantenimiento preventivo, diagnóstico básico de redes y atención de incidencias de primer nivel.
-
-Participé en la gestión de usuarios mediante Directorio Activo, soporte remoto, configuración de periféricos y diagnóstico de hardware y software. Además, apoyé la continuidad operativa de los servicios tecnológicos mediante el seguimiento de requerimientos y la resolución eficiente de incidentes.
-
-Esta experiencia fortaleció mis capacidades de análisis, atención al usuario y resolución de problemas en entornos corporativos.
+Durante mi etapa de pasantía como Técnico de Soporte IT, brindé soporte técnico y operativo a usuarios y a la infraestructura tecnológica de la organización. Entre las principales funciones realizadas se encuentran:
+Realización de mantenimiento preventivo y correctivo de equipos de cómputo y terminales.
+Monitoreo y seguimiento de la infraestructura de red mediante herramientas como PRTG, identificando caídas, interrupciones y posibles incidencias de conectividad.
+Soporte técnico a aplicativos corporativos, incluyendo sistemas y aplicativos relacionados con procesos de nómina.
+Documentación de casos de uso, incidentes, problemas y fallas presentadas en el área de tecnología.
+Administración de usuarios y permisos mediante Active Directory, incluyendo desbloqueo de cuentas, gestión de accesos y aplicación de políticas mediante GPO (Group Policy Objects).
+Soporte y administración básica de entornos Windows Server.
+Configuración y solución de incidencias mediante conexiones remotas.
+Diagnóstico y solución de problemas relacionados con servidores, impresoras, equipos de cómputo y terminales.
+Atención y seguimiento de requerimientos e incidentes de soporte técnico.
+Colaboración con el equipo de desarrollo en actividades relacionadas con soporte y solución de incidencias tecnológicas.
 </p>
 
 ## Estadísticas de GitHub
